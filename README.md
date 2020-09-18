@@ -36,7 +36,7 @@ And create an initial user, if you need.
 $ docker-compose up -d
 ```
 
-And open `http://localhost:9000`
+And open `http://localhost:8000`
 
 ## License
 
